@@ -1,0 +1,9 @@
+{
+  "cardNumber": 4321432143214321,
+  "email": "cardmanager@teste.com",
+  "name": "Card Manager",
+  "phone": {
+    "areaCode": 11,
+    "number": 987654321
+  }
+}
