@@ -1,0 +1,9 @@
+{
+  "cardNumber": 0,
+  "email": "",
+  "name": "",
+  "phone": {
+    "areaCode":0 ,
+    "number": 0
+  }
+}
