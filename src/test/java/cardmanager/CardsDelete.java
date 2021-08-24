@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class CardDelete {
+public class CardsDelete {
     String uri = "https://ardent-bulwark-315212.ue.r.appspot.com/api/v1/cards";
 
     @Test (priority = 9)
